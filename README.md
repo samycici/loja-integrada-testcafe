@@ -1,4 +1,4 @@
-# Exemplo de Testes com TestCafe [![Travis Status](https://travis-ci.org/samycici/loja-integrada-testcafe.svg?branch=master)](https://travis-ci.org/samycici/loja-integrada-testcafe)
+# Exemplo de Testes com TestCafe [![Build Status](https://travis-ci.org/samycici/loja-integrada-testcafe.svg?branch=master)](https://travis-ci.org/samycici/loja-integrada-testcafe)
 
 
 ## Configurando o ambiente ##
