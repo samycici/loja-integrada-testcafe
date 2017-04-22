@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Testes da Loja Integrada usando o TestCafe",
   "devDependencies": {
-    "testcafe": "*",
+    "testcafe": "*"
   },
   "repository": {
     "type": "git",
