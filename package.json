@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "Testes da Loja Integrada usando o TestCafe",
   "devDependencies": {
-    "testcafe": "*"
+    "testcafe": "*",
+    "testcafe-reporter-xunit": "*"
   },
   "repository": {
     "type": "git",
@@ -13,6 +14,6 @@
   "license": "ISC",
   "homepage": "https://github.com/samycici/loja-integrada-protractor.git",
   "scripts": {
-    "test":  "testcafe chrome,firefox tests/busca_test.js"
+    "test":  "testcafe chrome,firefox tests/busca_test.js --reporter xunit"
 }
 }

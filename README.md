@@ -37,7 +37,12 @@ ou
 testcafe safari busca_test.js
 ```
 
-Para executar os testes no Chrome e Firefox (simultaneamente) usando o gulp:
+Para executar os testes no Chrome, Firefox e Safari (simultaneamente) usando o gulp:
 ```shell
 gulp run-testcafe-tests
+```
+
+Para executar os testes no Chrome e Firefox (simultaneamente) usando o npm:
+```shell
+npm test
 ```
