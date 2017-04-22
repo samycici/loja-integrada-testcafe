@@ -1,4 +1,4 @@
-# Exemplo de Testes com TestCafe [![Circle CI](https://circleci.com/gh/samycici/cucumber-capybara-site_prism.svg?style=shield)](https://circleci.com/gh/samycici/cucumber-capybara-site_prism)
+# Exemplo de Testes com TestCafe [![Travis CI][![Build Status](https://travis-ci.org/samycici/loja-integrada-testcafe.svg?branch=master)](https://travis-ci.org/samycici/loja-integrada-testcafe)
 
 ## Configurando o ambiente ##
 
